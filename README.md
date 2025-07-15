@@ -27,7 +27,7 @@ Para compilar e executar os códigos acesse o vscode spaces com sua conta github
 ### 🦙 Módulo 0 - Scratch
 
 Esse foi o meu primeiro projeto no Scratch <br>
-O objetivo do game é encher a cumbuca com o máximo possível de tacos e maçãs aumentando a pontuação e evitando os roedores que aparecem ocasionalmente. <br>
+Usando os direcionais do teclado, o objetivo do game é encher a cumbuca com o máximo possível de tacos e maçãs aumentando a pontuação e evitando os roedores que aparecem ocasionalmente. <br>
 Clique na imagem pra jogar <br>
 
 <a href="https://scratch.mit.edu/projects/1195735508" target="_blank">
@@ -35,20 +35,15 @@ Clique na imagem pra jogar <br>
 
 Sinta-se a vontade para dar seu pitaco lá.
 
-
 ### 🦙 Módulo 1 - C
 
-Exercícios:
+[Exercícios:](https://github.com/carolinsanna/cs50x/tree/pset1) :godmode:
 ```
 git checkout pset1
 ```
 
-[pset1](https://github.com/carolinsanna/cs50x/tree/pset1)
-
-Laboratório:
+[Laboratório:](https://github.com/carolinsanna/cs50x/tree/lab1) :godmode:
 ```
 git checkout lab1
 ```
-
-[lab1](https://github.com/carolinsanna/cs50x/tree/lab1)
 
