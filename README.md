@@ -29,6 +29,7 @@ Para compilar e executar os códigos acesse o vscode spaces com sua conta github
 Esse foi o meu primeiro projeto no Scratch <br>
 O objetivo do game é encher a cumbuca com o máximo possível de tacos e maçãs aumentando a pontuação e evitando os roedores que aparecem ocasionalmente. <br>
 Clique na imagem pra jogar <br>
+
 <a href="https://scratch.mit.edu/projects/1195735508" target="_blank">
 <img src="./assets/cumbuca.png" width="400" /> </a> <br>
 
@@ -42,8 +43,12 @@ Exercícios:
 git checkout pset1
 ```
 
+[pset1](https://github.com/carolinsanna/cs50x/tree/pset1)
+
 Laboratório:
 ```
 git checkout lab1
 ```
+
+[lab1](https://github.com/carolinsanna/cs50x/tree/lab1)
 
