@@ -37,12 +37,12 @@ Sinta-se a vontade para dar seu pitaco lá.
 
 ### 🦙 Módulo 1 - C
 
-[Exercícios:](https://github.com/carolinsanna/cs50x/tree/pset1) :godmode:
+:godmode: [Exercícios:](https://github.com/carolinsanna/cs50x/tree/pset1) 
 ```
 git checkout pset1
 ```
 
-[Laboratório:](https://github.com/carolinsanna/cs50x/tree/lab1) :godmode:
+:godmode: [Laboratório:](https://github.com/carolinsanna/cs50x/tree/lab1)
 ```
 git checkout lab1
 ```
