@@ -49,14 +49,14 @@ git checkout lab1
 
 ### 🦙 Módulo 2 - C
 
-:godmode: [Laboratório:](https://github.com/carolinsanna/cs50x/tree/pset2)
+:godmode: [Exercícios:](https://github.com/carolinsanna/cs50x/tree/pset2)
 ```
 git checkout pset2
 ```
 
 ### 🦙 Módulo 3 - C
 
-:godmode: [Laboratório:](https://github.com/carolinsanna/cs50x/tree/pset3)
+:godmode: [Exercícios:](https://github.com/carolinsanna/cs50x/tree/pset3)
 ```
 git checkout pset3
 ```
