@@ -18,7 +18,7 @@ Analisar três programas de classificação para determinar quais algoritmos ele
 
 * O <strong>merge sort</strong> divide recursivamente a lista em duas repetidamente e, em seguida, mescla as listas menores de volta em uma maior na ordem correta.
 
-## :technologist: Solução 
+### Solução 
 
 ### Baixe o arquivo .zip
 
