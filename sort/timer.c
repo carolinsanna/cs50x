@@ -22,7 +22,7 @@ int main(void){
 		
 		//Define o cabeçalho do arquivo csv para identificar as informações nas linhas subsequentes
 		//Programa -- Arquivo -- Tempo de execução
-		fprintf(output_csv, "Program,File,Runtime\n");
+		fprintf(output_csv, "Program | File | Runtime\n");
 
 		//Inicializa dois vetores com comandos que serão passado como parâmetros para automzatizar a execução dos 3 programas com 9 entradas cada um    
 		string programs[] = {"sort1", "sort2", "sort3"};
@@ -60,7 +60,7 @@ int main(void){
 
 						//Escreve em uma linha do arquivo o resultado no mesmo formato do cabeçalho
 						//Programa, arquivo, tempo de execução
-            fprintf(output_csv, "%s %s %.9fseg\n", program, file, timer);
+            fprintf(output_csv, "%s | %s | %.9fseg\n", program, file, timer);
 
         }
     }
